@@ -39,4 +39,12 @@
 
 <br><br>
 
- <h2 align="left"> :busts_in_silhouette: Contato!</h2>
+ <h2 align="left"> 📖Mais sobre mim!</h2>
+ <br>
+🖤 Amo resolver problemas.
+
+📚 Tenho um relacionamento serio com Livros. 
+
+✏️ Gosto de escrever sobre as coisas que eu sei.
+
+ 
