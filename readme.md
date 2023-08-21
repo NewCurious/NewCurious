@@ -31,8 +31,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 <br>
 <p align="center">
-<img width="400em" src="https://github-readme-stats.vercel.app/api?username=NewCurious&show_icons=true&theme=dracula" alt="NewCurious stats"/>
-<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewCurious&layout=compact&theme=dracula" alt="NewCurious most languages"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api?username=NewCurious&show_icons=true&theme=tokyonight" alt="NewCurious stats"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewCurious&layout=compact&theme=tokyonight" alt="NewCurious most languages"/>
 </p>
 <br><br>
 
