@@ -29,18 +29,16 @@
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
-
+<br>
 <p align="left">
 <img width="500em" src="https://github-readme-stats.vercel.app/api?username=NewCurious&show_icons=true&theme=dracula" alt="NewCurious stats"/>
 <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewCurious&layout=compact&theme=dracula" alt="NewCurious most languages"/>
 </p>
-
 <br><br>
 
- <h2 align="left"> 📖Mais sobre mim!</h2>
- <br>
-🖤 Amo resolver problemas.
+ <h2 align="left"> 📖  Mais sobre mim!</h2>
 
-📚 Tenho um relacionamento serio com Livros. 
 
-✏️ Gosto de escrever sobre as coisas que eu sei.
+- 🖤 Amo resolver problemas.
+- 📚 Tenho um relacionamento serio com Livros. 
+- ✏️ Gosto de escrever sobre as coisas que eu sei.
