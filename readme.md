@@ -1,7 +1,7 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/NewCurious/8fa7f6915b7395b584b50f0e970c8f86/raw/909555a201c6ea789e827182c5d8bfe7d91ccb4b/CardProfile.svg"/>
 
 <h1 align="left">Guilherme Maciel :satisfied:</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NewCurious&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NewCurious&color=red" alt="Profile views" /> </p>
 
 - 🔥:coffee: Estudante de desenvolvimento web. Apaixonado por criar desings inovadores e marcantes.
 - :closed_book: Aprendendo mais sobre BackEnd!
@@ -33,9 +33,9 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=NewCurious&show_icons=true&theme=vision-friendly-dark" alt="NewCurious stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=NewCurious&show_icons=true&theme=dracula" alt="NewCurious stats"/>
   <br>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewCurious&layout=compact&theme=vision-friendly-dark" alt="NewCurious most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewCurious&layout=compact&theme=dracula" alt="NewCurious most languages"/>
 </p>
 
 <br><br>
@@ -47,5 +47,8 @@
 📚 Tenho um relacionamento serio com Livros. 
 
 ✏️ Gosto de escrever sobre as coisas que eu sei.
+
+<link src="https://github-readme-stats.vercel.app/api/pin/?username=NewCurious&repo=github-readme-stats"/>
+
 
  
