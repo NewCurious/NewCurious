@@ -1,6 +1,7 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/NewCurious/8fa7f6915b7395b584b50f0e970c8f86/raw/909555a201c6ea789e827182c5d8bfe7d91ccb4b/CardProfile.svg"/>
 
-<h1 align="left">Guilherme Maciel :satisfied:</h1>
+
+<h1 align="left">Guilherme Maciel <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NewCurious&color=red" alt="Profile views" /> </p>
 
 - 🔥:coffee: Estudante de desenvolvimento web. Apaixonado por criar desings inovadores e marcantes.
@@ -48,7 +49,20 @@
 
 ✏️ Gosto de escrever sobre as coisas que eu sei.
 
-<link src="https://github-readme-stats.vercel.app/api/pin/?username=NewCurious=github-readme-stats"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 
  
