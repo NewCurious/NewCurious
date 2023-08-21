@@ -48,7 +48,7 @@
 
 ✏️ Gosto de escrever sobre as coisas que eu sei.
 
-<link src="https://github-readme-stats.vercel.app/api/pin/?username=NewCurious&repo=github-readme-stats"/>
+<link src="https://github-readme-stats.vercel.app/api/pin/?username=NewCurious=github-readme-stats"/>
 
 
  
