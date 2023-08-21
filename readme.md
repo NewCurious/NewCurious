@@ -1,4 +1,4 @@
-<img align="right" height="560em" src="https://raw.githubusercontent.com/gist/NewCurious/8fa7f6915b7395b584b50f0e970c8f86/raw/909555a201c6ea789e827182c5d8bfe7d91ccb4b/CardProfile.svg"/>
+<img align="right" width="500em" height="560em" src="https://raw.githubusercontent.com/gist/NewCurious/8fa7f6915b7395b584b50f0e970c8f86/raw/909555a201c6ea789e827182c5d8bfe7d91ccb4b/CardProfile.svg"/>
 <br><br>
 
 
