@@ -13,8 +13,8 @@
 <br>
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/guilherme-maciel-84094a186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "https://www.youtube.com/channel/UCNnJ-q2tEce-qauVhpt9hIw"><img src="https://img.shields.io/badge/Youtube-D14836?style=for-the-badge&logo=Youtube&logoColor=white"></a>
-<a href = "guilherme.maciel.rocha@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href = "https://www.youtube.com/channel/UCNnJ-q2tEce-qauVhpt9hIw" target="_blank"><img src="https://img.shields.io/badge/Youtube-D14836?style=for-the-badge&logo=Youtube&logoColor=white" target="_blank"></a>
+<a href = "guilherme.maciel.rocha@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/techblog.ui/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <br>
 
