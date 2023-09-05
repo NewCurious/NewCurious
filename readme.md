@@ -5,10 +5,12 @@
 <h1 align="left">Guilherme Maciel <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NewCurious&color=red" alt="Profile views" /> </p>
 
-- 🔥:coffee: Estudante de desenvolvimento web. Apaixonado por criar desings inovadores e marcantes.
-- :closed_book: Aprendendo mais sobre BackEnd!
+- 🍂 :coffee: Estudante de desenvolvimento web. Apaixonado por criar desings inovadores e marcantes.
+- :closed_book: Aprendendo mais sobre BackEnd
 
 - ▶️ Tenho um blog no Instagram!! 😆
+
+- 📺 Dicas e projetos no Youtube! 🔥
 
 <br>
 <p align="left" style="background:yellow">
